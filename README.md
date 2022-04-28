@@ -1,2 +1,2 @@
 # Practica
-Hotel foraneo
+Hotel foraneo - como en casa
